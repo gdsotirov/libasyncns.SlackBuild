@@ -1,0 +1,11 @@
+libasyncns: libasyncns (library for anynchronous name service queries)
+libasyncns:
+libasyncns: libasyncns is a C library for Linux/Unix for executing name
+libasyncns: service queries asynchronously. It is an asynchronous wrapper
+libasyncns: around getaddrinfo(3), getnameinfo(3), res_query(3) and
+libasyncns: res_search(3) from libc and libresolv.
+libasyncns: libasyncns gives the advantage of name resolution using
+libasyncns: techniques like Multicast DNS, LDAP or NIS using standard libc
+libasyncns: NSS (Name Service Switch) modules. libasyncns is compatible with
+libasyncns: IPv6 if the underlying libc is.
+libasyncns: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
