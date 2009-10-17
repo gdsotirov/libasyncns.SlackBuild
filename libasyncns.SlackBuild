@@ -5,10 +5,10 @@
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
 
-. /etc/slack-package.conf
+. ../slack-package.conf
 
 NAME=libasyncns
-VERSION=0.7
+VERSION=0.8
 BUILD=1
 ARCH=${ARCH:-i486}
 
