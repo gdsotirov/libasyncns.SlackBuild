@@ -9,7 +9,7 @@
 
 NAME=libasyncns
 VERSION=0.8
-BUILD=1
+BUILD=2
 ARCH=${ARCH:-i486}
 
 CWD=${CWD:-`pwd`}
