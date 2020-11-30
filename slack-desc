@@ -8,4 +8,4 @@ libasyncns: libasyncns gives the advantage of name resolution using
 libasyncns: techniques like Multicast DNS, LDAP or NIS using standard libc
 libasyncns: NSS (Name Service Switch) modules. libasyncns is compatible with
 libasyncns: IPv6 if the underlying libc is.
-libasyncns: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+libasyncns: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
